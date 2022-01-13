@@ -1,0 +1,19 @@
+.truthy__form {
+  margin: 0 auto;
+  text-align: center;
+}
+.truthy__input {
+    font-size: 20px;
+  border: 2px solid ;
+  width: 200px;
+  height: 30px;
+}
+button{
+    padding: 10px;
+    margin: 20px;
+    font-size: 20px;
+    border: none;
+    color: #fff;
+    background-color: #4ce;
+    border-radius: 10px;
+}
